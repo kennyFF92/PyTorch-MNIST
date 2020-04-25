@@ -1,0 +1,17 @@
+{
+    "random_seed": 23,
+    "use_cuda": true,
+    "gpu_index": 0,
+    "input_size": [
+        28,
+        28
+    ],
+    "classes": 10,
+    "val_perc": 0.0,
+    "epochs": 25,
+    "batch_size": 32,
+    "learning_rate": 1e-3,
+    "data_path": "./data",
+    "tensorboard_path": "./runs",
+    "trained_model_path": "./models"
+}
